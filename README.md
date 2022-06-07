@@ -82,7 +82,7 @@ Resolviendo este sistema de ecuaciones me queda el valor de sus corrientes.
 
 <img width="359" alt="image" src="https://user-images.githubusercontent.com/104999420/172305105-3a5742ed-c7af-41bf-9df7-561c5852cab6.png">
 
-<img width="413" alt="image" src="https://user-images.githubusercontent.com/104999420/172429757-25d28022-afd3-463d-b312-84f8c2ba0dd3.png">
+<img width="423" alt="image" src="https://user-images.githubusercontent.com/104999420/172430051-0f7aaaf6-d7fd-4eab-8639-4ad79c3deb49.png">
 
 3.5.5. Compruebe los valores de la tabla y realice sus conclusiones 
 
@@ -90,7 +90,7 @@ Después de haber completado la tabla con los resultados analíticos, resultados
 
 Calcular errores de las mediciones y comentar los resultados.
 
-<img width="470" alt="image" src="https://user-images.githubusercontent.com/104999420/172429825-6fd6951b-8a2b-4b2b-a8da-7f3f05d6bd79.png">
+<img width="477" alt="image" src="https://user-images.githubusercontent.com/104999420/172430140-510ff469-17cc-487f-b124-b42cf5b86ef2.png">
 
 <img width="231" alt="image" src="https://user-images.githubusercontent.com/104999420/172305343-696fe662-1738-485c-b533-9bdad5e4dc6c.png">
 
