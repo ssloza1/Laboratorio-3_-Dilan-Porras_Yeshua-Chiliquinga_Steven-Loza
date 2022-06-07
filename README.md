@@ -32,6 +32,10 @@ FECHA
 
 ## 2. MARCO TEÓRICO:
 
+![1](https://user-images.githubusercontent.com/104863870/172283841-68b5bfcb-4c28-47aa-8672-34aeee76857d.jpg)
+
+![2](https://user-images.githubusercontent.com/104863870/172283874-a10f202a-3d5d-44e0-b824-b453178fed72.jpg)
+
 ## 3. VIDEO:
 
 ## 4. CONCLUSIONES:
