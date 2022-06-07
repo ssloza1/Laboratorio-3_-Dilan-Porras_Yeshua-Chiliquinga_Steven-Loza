@@ -43,3 +43,6 @@ FECHA
 ## 5. RECOMENDACIONES:
 
 ## 6. BIBLIOGRAFÍA:
+
+▷ Teorema de Nodos 【 Análisis Paso a Paso 】✔. (s. f.). Recuperado 6 de junio de 2022, de https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-nodos/
+
