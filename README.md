@@ -46,3 +46,4 @@ FECHA
 
 ▷ Teorema de Nodos 【 Análisis Paso a Paso 】✔. (s. f.). Recuperado 6 de junio de 2022, de https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-nodos/
 
+ANÁLISIS POR NODOS Y MALLAS (Salazar, Antonio) Universidad de los Andes. Recuperado de: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/03_Analisis_por_Nodos_y_Mallas.pdf
