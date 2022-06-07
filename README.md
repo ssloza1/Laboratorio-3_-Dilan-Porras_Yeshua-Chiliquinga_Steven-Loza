@@ -42,8 +42,6 @@ FECHA
 
 ![2](https://user-images.githubusercontent.com/104863870/172283874-a10f202a-3d5d-44e0-b824-b453178fed72.jpg)
 
-![image](https://user-images.githubusercontent.com/105320981/172299931-5f5bcd54-5820-4037-bd14-79b1d4a213f0.png)
-
 ![image](https://user-images.githubusercontent.com/105320981/172299978-ee66222b-eed9-419a-bc96-4e4014a8664d.png)
 
 ![image](https://user-images.githubusercontent.com/105320981/172303582-acea365b-9556-4227-9cb9-b10d648b949b.png)
