@@ -46,6 +46,8 @@ FECHA
 
 ![image](https://user-images.githubusercontent.com/105320981/172299978-ee66222b-eed9-419a-bc96-4e4014a8664d.png)
 
+![image](https://user-images.githubusercontent.com/105320981/172303582-acea365b-9556-4227-9cb9-b10d648b949b.png)
+
 ## 3. VIDEO:
 
 ## 4. CONCLUSIONES:
