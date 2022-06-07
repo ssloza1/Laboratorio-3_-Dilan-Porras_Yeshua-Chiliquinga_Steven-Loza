@@ -97,6 +97,8 @@ Calcular errores de las mediciones y comentar los resultados.
 
  4. VIDEO:
 
+https://youtu.be/nfID8VvEdFc
+
  5. CONCLUSIONES:
 
 •	Los nodos son prácticamente una forma de ver un circuito eléctrico estos ayudan a calcular de manera detallada y separada el circuito que se quiere obtener, estos permiten estructurar las componentes.
